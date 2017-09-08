@@ -1,4 +1,4 @@
-# Readme or GTFO
+# Readme or GTFO [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## First:
 Go on [Botfather](https://t.me/botfather) and create a new bot, after u have created a bot insert the *TOKEN* in ssh.sh
 ![botfather](https://raw.githubusercontent.com/freddyxs/ssh-telegram/master/botfather0.jpg)
