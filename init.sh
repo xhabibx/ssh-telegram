@@ -3,4 +3,4 @@
 echo "
 #!/usr/bin/env bash
 # Execute script after any ssh connection :D
-sh /whereuhaveplacedthessh.sh/ssh.sh" > /etc/profile.d/telegram-alert.sh
+sh /whereuhaveplacedthessh.sh/ssh.sh" > /etc/profile.d/telegram-ssh.sh
